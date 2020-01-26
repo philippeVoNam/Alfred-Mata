@@ -27,9 +27,7 @@ from ui_mod import MainWindow
 #         :input [type] name:
 #         :return [type] name: what is it
 #         """
-
 # * Code
-
 if __name__ == "__main__":
     app = QApplication(sys.argv)
 
